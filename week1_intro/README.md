@@ -1,3 +1,19 @@
+---
+'@webio':
+  lastCommId: 1181416ab4214f36ad3590389eb5d707
+  lastKernelId: cbc68573-0a86-46f1-830c-c7297e270e36
+hide_input: false
+toc:
+  nav_menu: {}
+  number_sections: false
+  sideBar: true
+  skip_h1_title: false
+  toc_cell: false
+  toc_position: {}
+  toc_section_display: block
+  toc_window_display: false
+---
+
 ## Materials:
 * [__Lecture slides__](https://yadi.sk/i/sbc0ZCKx3RRGbW)
 * __Russian:__
@@ -27,5 +43,3 @@
 * After you're done there, proceed to `crossentropy_method.ipynb`
 * You can find homework and bonus assignment descriptions at the end of that notebook.
 * Note: so far it's enough to say `pip install gym` on top of any data-science-stuffed python, but we'd appreciate if you gradually switch to [full installation](https://github.com/openai/gym#installing-everything).
-
-

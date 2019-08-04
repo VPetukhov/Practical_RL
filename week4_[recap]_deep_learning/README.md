@@ -1,3 +1,19 @@
+---
+'@webio':
+  lastCommId: d3e6aa314a8f433d8b6b9f0a3f458bbf
+  lastKernelId: d0b118d6-33e7-4809-ae71-5bc7fe3eb046
+hide_input: false
+toc:
+  nav_menu: {}
+  number_sections: false
+  sideBar: true
+  skip_h1_title: false
+  toc_cell: false
+  toc_position: {}
+  toc_section_display: block
+  toc_window_display: false
+---
+
 __Note:__ This week's materials cover the basics of neural nets and deep learning and teach you how to use auto-diff frameworks. If you're already fluent in tensorflow OR pytorch OR theano - feel free to skip this week entirely..
 
 ## Materials
@@ -42,4 +58,3 @@ __Note:__ in this and all following weeks you're only required to get through pr
 * Theano works like tensorflow but it offers a numpy-compatible interface and comes with built-in graph optimization. The payoff is that theano is not as popular as the first two. It is also not meant as a producton framework so deploying to mobiles may be a problem.
 
 * It's not like choosing house at Hogwarts, you'll be able to switch between frameworks easily once you master the underlying principles.
-  

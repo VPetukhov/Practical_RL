@@ -366,7 +366,7 @@ def get_optimal_action_for_plot(mdp, state_values, state, gamma=0.9):
     return optimal_action
 
 
-def plot_graph_optimal_strategy_and_state_values(mdp, state_values):
+def plot_graph_optimal_strategy_and_state_values(mdp, state_values, gamma):
     """ Plot graph with state values and """
     graph = plot_graph(mdp)
     opt_s_a_edge_attrs = {'style': 'bold',

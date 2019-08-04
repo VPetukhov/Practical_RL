@@ -1,3 +1,19 @@
+---
+'@webio':
+  lastCommId: 6ea9784cb9174c13aa4cf441aedc21df
+  lastKernelId: f310ae8a-e4d5-461a-9586-1718d9243599
+hide_input: false
+toc:
+  nav_menu: {}
+  number_sections: false
+  sideBar: true
+  skip_h1_title: false
+  toc_cell: false
+  toc_position: {}
+  toc_section_display: block
+  toc_window_display: false
+---
+
 #### __Lecture slides__ - [here](https://yadi.sk/i/54qWKtDB3NDeuh)
 ### Materials
 * Russian materials:
@@ -17,7 +33,7 @@
 
 ### Assignments
 
-Just as usual, start with `seminar_qlearning.ipynb` and then proceed to `homework.ipynb`. 
+Just as usual, start with `seminar_qlearning.ipynb` and then proceed to `homework.ipynb`.
 
 
 (optional) If you're running on a local machine (e.g. your pc) with python2, you can also try `seminar_py2`. It has some neat RL problems with cool visualizations.
@@ -43,4 +59,3 @@ python pacman.py -p PacmanQAgent -x 5000 -n 5010 -l smallGrid # example
   * ./run_pacman.sh will need more epochs to converge, see [comments](https://github.com/yandexdataschool/Practical_RL/blob/master/week3_model_free/seminar_py2/run_pacman.sh)
   * on windows, just copy the type `python pacman.py -p PacmanQAgent -x 2000 -n 2010 -l smallGrid` in cmd from assignemnt dir
 (YSDA/HSE) Please submit only qlearningAgents.py file and include a brief text report as comments in it.
-

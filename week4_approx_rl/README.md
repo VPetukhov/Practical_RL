@@ -1,3 +1,19 @@
+---
+'@webio':
+  lastCommId: 1cd88faa07fe4f9f9b8d93b2c9b3b286
+  lastKernelId: 3f754e5e-61fe-4d8b-a430-6b9ce0338138
+hide_input: false
+toc:
+  nav_menu: {}
+  number_sections: false
+  sideBar: true
+  skip_h1_title: false
+  toc_cell: false
+  toc_position: {}
+  toc_section_display: block
+  toc_window_display: false
+---
+
 ## Materials
 * [__lecture slides I__](https://yadi.sk/i/kGPiXpse3NR3n8), [__slides II__](https://yadi.sk/i/H07O_XEh3NR3oV)
 * Our [lecture](https://yadi.sk/i/AHDU2p_j3FT3nr), [second lecture](https://yadi.sk/i/yBO0q4mI3GAxYd), [seminar](https://yadi.sk/i/EeUeheri3FT3ra) (russian)
